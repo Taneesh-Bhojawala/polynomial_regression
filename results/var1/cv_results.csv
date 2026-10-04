@@ -1,0 +1,2 @@
+problem,model,degree,alpha,mean_train_mse,std_train_mse,mean_validation_mse,std_validation_mse,mean_train_r2,std_train_r2,mean_validation_r2,std_validation_r2
+var1,Linear Regression,1,,9.301567661186347,0.3090421309825468,9.423619287097905,1.249126764576408,0.12822342760436753,0.007767769515524585,0.11912544044950321,0.030243707909296823
