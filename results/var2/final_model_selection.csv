@@ -1,0 +1,2 @@
+problem,model,degree,mean_train_mse,std_train_mse,mean_validation_mse,std_validation_mse,mean_train_r2,std_train_r2,mean_validation_r2,std_validation_r2,absolute_mse_gap
+var2,Ridge,9,0.1583656241276306,0.0066547775539432,0.2358649336882558,0.0205722176803656,0.9965651533650612,0.0002514893203555,0.994608466760016,0.001350060929688,0.0774993095606252

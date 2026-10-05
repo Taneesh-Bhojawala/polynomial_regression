@@ -1,0 +1,2 @@
+model,degree,alpha,intercept,training_samples,test_predictions
+Lasso,5,0.009643557942287797,-0.058790877926276686,1000,1000

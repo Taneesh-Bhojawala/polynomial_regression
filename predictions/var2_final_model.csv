@@ -1,0 +1,2 @@
+model,degree,alpha,intercept,training_samples,test_predictions
+Ridge,9,0.31622776601683794,0.6049184815129998,1000,1000
